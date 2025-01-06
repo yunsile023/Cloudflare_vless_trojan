@@ -1,0 +1,20 @@
+美国IPV4
+104.19.166.102,SJC,North America,San Jose,133 ms
+104.17.250.39,SJC,North America,San Jose,133 ms
+104.19.168.141,SJC,North America,San Jose,133 ms
+162.159.143.54,SJC,North America,San Jose,134 ms
+104.17.84.20,SJC,North America,San Jose,134 ms
+
+亚洲IPV4
+172.67.23.211,HKG,Asia Pacific,Hong Kong,158 ms
+104.17.78.88,HKG,Asia Pacific,Hong Kong,159 ms
+104.16.209.4,HKG,Asia Pacific,Hong Kong,159 ms
+104.17.72.60,HKG,Asia Pacific,Hong Kong,160 ms
+172.67.30.149,HKG,Asia Pacific,Hong Kong,161 ms
+
+欧洲IPV4
+172.67.221.11,LHR,Europe,London,177 ms
+104.21.49.156,LHR,Europe,London,177 ms
+104.21.31.180,LHR,Europe,London,177 ms
+104.21.214.41,LHR,Europe,London,177 ms
+104.21.17.96,LHR,Europe,London,177 ms
